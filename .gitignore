@@ -1,0 +1,32 @@
+.idea
+*.iml
+*.pyc
+out/
+target/
+output/
+log/
+
+# Lines that start with '#' are comments.
+*~
+*.diff
+*#
+.classpath
+.project
+.settings
+bin/flume-env.sh
+conf/flume-site.xml
+bin/.settings
+.eclipse
+pmd_report.html
+*/bin
+patchprocess
+derby.log
+nb-configuration.xml
+.DS_Store
+
+# log file
+*.log
+*.error
+tools/zendguard/zendguard.xml
+tools/zendguard/ZendGuard_6/*
+!tools/zendguard/ZendGuard_6/README.md
